@@ -1,5 +1,5 @@
 
-# Moonlight (Pharmacy Management System)
+# Moonlight (Gem and Jewelry Store Management System)
 
 <p><a  href="https://github.com/kavindu-dilshan"><img  src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,vite,redux,tailwind,vscode,github"  width=350></a></p>
 
@@ -7,7 +7,7 @@ This repository contains the source code for a Pharmacy Management System web ap
 
 <br>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/images-for-projects.appspot.com/o/KMP%20Pharmacy%2FKMP-Pharmacy-Home.png?alt=media&token=1c3d22ce-c6ac-437b-bf61-49a73fb645b6" alt="KMP-Pharmacy-Home">
+<img src=" alt="home_page">
 
 
 ## Table of Contents
