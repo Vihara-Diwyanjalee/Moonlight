@@ -1,13 +1,12 @@
-
 # Moonlight (Gem and Jewelry Store Management System)
 
-<p><a  href="https://github.com/kavindu-dilshan"><img  src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,vite,redux,tailwind,vscode,github"  width=350></a></p>
+<p><a  href="https://github.com/Vihara-Diwyanjalee"><img  src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,mui,vscode,github"  width=350></a></p>
 
-This repository contains the source code for a Pharmacy Management System web application developed using the MERN (MongoDB, Express.js, React, Node.js) stack. The project utilizes Vite as the local development server.
+This repository contains the source code for a Gem and Jewelary Management System web application developed using the MERN (MongoDB, Express.js, React, Node.js) stack.
 
 <br>
 
-<img src=" alt="home_page">
+<img src="https://github.com/Vihara-Diwyanjalee/Moonlight/blob/main/frontend/public/moonlight.png" alt="home_page" width=1000 >
 
 
 ## Table of Contents
@@ -24,16 +23,16 @@ To set up the project locally, follow these steps:
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/kavindu-dilshan/KMP-Pharmacy.git
+git clone https://github.com/Vihara-Diwyanjalee/Moonlight.git
 ```
 
 **2. Install dependencies for the frontend and backend:**
 
 ```bash
-cd KMP-Pharmacy/client
+cd moonlight/frontend
 npm install
 
-cd KMP-Pharmacy/server
+cd moonlight/backend
 npm install
 ```
 
@@ -44,11 +43,11 @@ npm install
 **4. Run the development server:**
 
 ```bash
-cd KMP-Pharmacy/client
-npm run dev
+cd moonlight/frontend
+npm start
 
-cd KMP-Pharmacy/server
-npm run dev
+cd moonlight/backend
+npm start
 ```
 
 <br>
@@ -57,7 +56,5 @@ npm run dev
 
 The project structure is organized as follows:
 
-- <b>client:</b> Frontend React application.
-- <b>server:</b> Backend Express.js application.<br><br>
-# Moonlight
- ITP Project
+- <b>frontend:</b> Frontend React application.
+- <b>backend:</b> Backend Express.js application.<br><br>
